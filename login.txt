@@ -1,0 +1,2 @@
+cid = "4acff433ba4c4b1e97a5cacdb6358f52"
+secret = "bcd9bc8e6123468085c44fa911a613ad"
